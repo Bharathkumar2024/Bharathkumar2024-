@@ -1,76 +1,88 @@
-Here. Clean. Attractive. Animated. No unnecessary explanation. Just the README content.
-
-Copy this into `README.md` and replace `YOUR_USERNAME`.
-
-```markdown
-<h1 align="center">Hi 👋 I'm Bharathkumar</h1>
-<h3 align="center">🚀 AI Engineering Student | Web Developer | Problem Solver</h3>
+<h1 align="center">👋 Hi, I'm Bharathkumar</h1>
+<h3 align="center">🚀 AI Engineering Student | 💻 Full-Stack Learner | 🧠 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&size=24&duration=3000&color=FF2D6B&center=true&vCenter=true&width=650&lines=AI+Engineer+in+Progress;Building+Intelligent+Systems;Frontend+Developer;Creative+UI+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&size=24&duration=3000&color=FF2D6B&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Building+Real+World+Systems;Frontend+Developer;Machine+Learning+Enthusiast;Creative+UI+Designer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff2d6b&style=flat" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=ff2d6b" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat&color=ff2d6b" />
 </p>
 
 ---
 
-## 🔥 About Me
+# 🔥 About Me
 
-- 🎓 B.E. AI Engineering Student (2024–2028)  
-- 📊 Current CGPA: **8.43**  
-- 💡 Passionate about Artificial Intelligence & System Design  
-- 🛠️ Building real-world applications  
-- 📍 Tamil Nadu, India  
+- 🎓 B.E. AI Engineering Student (2024–2028)
+- 📊 CGPA: **8.43**
+- 🧠 Focused on AI, Machine Learning & System Design
+- 🌐 Strong interest in Web Development & UI/UX
+- 🚀 Building scalable and practical applications
+- 📍 Tamil Nadu, India
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Arsenal
 
-### 👨‍💻 Programming
+## 👨‍💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
-### 🌐 Frontend & Tools
+## 🌐 Frontend & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
-### 🗄️ Database
+## 🗄️ Database & Backend Exposure
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,nodejs" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🩸 Blood Management System
-Web application to manage donor records, blood stock, and hospital requests efficiently.  
-**Tech:** HTML, CSS, JavaScript, MongoDB  
+## 🩸 Blood Management System
+> Smart web-based system for managing donor records, blood stock levels, and hospital requests.
 
----
-
-### 🏧 ATM Simulator
-Console-based banking system built using C with authentication and file handling.  
-**Tech:** C Language, File Handling, Core Logic  
+**⚙️ Tech Used:** HTML, CSS, JavaScript, MongoDB  
+**🎯 Goal:** Reduce manual effort and improve response time  
 
 ---
 
-### 🏢 HR Management System
-Centralized platform to manage employee data, attendance, leave, and payroll records.  
-**Tech:** Web Development, Database, System Design  
+## 🏧 ATM Simulator
+> Console-based banking simulation built in C.
+
+**⚙️ Tech Used:** C Language, File Handling  
+**🎯 Features:** Authentication, Balance Inquiry, Transaction Logs  
 
 ---
 
-## 📊 GitHub Stats
+## 🏢 HR Management System
+> Centralized employee management platform.
+
+**⚙️ Tech Used:** Web Stack, Database Design  
+**🎯 Features:** Attendance, Leave Tracking, Payroll Records  
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=10" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&border_radius=10" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&color=FF2D6B&line=FF2D6B&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## 🧠 LeetCode Profile
+# 🧠 Problem Solving
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/BHARATHKUMAR_J?theme=dark&font=Sora" />
@@ -78,7 +90,16 @@ Centralized platform to manage employee data, attendance, leave, and payroll rec
 
 ---
 
-## 📬 Connect With Me
+# 🏆 Achievements
+
+- 🎯 88% in Higher Secondary Education  
+- 📈 Strong academic performance in Engineering  
+- 🛠️ Multiple real-world academic projects  
+- 🚀 Actively participating in technical development  
+
+---
+
+# 📬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jbharathkumar/">
@@ -94,8 +115,12 @@ Centralized platform to manage employee data, attendance, leave, and payroll rec
 
 ---
 
+# ⚡ Developer Philosophy
+
+> 💡 "I don't just write code. I build systems that solve problems."
+
+---
+
 <p align="center">
-  💻 Engineering Intelligent Solutions | 🚀 Continuous Learner | 🔥 Future AI Engineer
+  💻 Engineering Intelligence | 🚀 Continuous Learner | 🔥 Future AI Engineer
 </p>
-```
-# Bharathkumar2024-
